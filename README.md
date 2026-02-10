@@ -5,72 +5,64 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun A</h1>
 <h3 align="center">Backend Engineer | Golang | Distributed Systems | Cloud</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mallikarjun194&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
+Most of my time goes into:
+- Writing clean Go code
+- Working with Redis and caching systems
+- Debugging CPU & memory issues using profiling
+- Making systems faster and cheaper to run
 
 ---
 
-## 🚀 Who Am I?
+### 🧑‍💻 What I work with
 
-```yaml
-name: Mallikarjun A
-location: Bengaluru, India 🇮🇳
-role: Backend Engineer
-primary_language: Golang
-other_languages:
-  - Python
-interests:
-  - High-performance backend systems
-  - Distributed systems & microservices
-  - Redis, caching & optimisation
-  - Profiling (CPU / Memory / Latency)
-  - Cloud cost optimisation
-I enjoy building scalable, high-throughput backend services,
-profiling them with pprof, and squeezing out every bit of CPU & memory efficiency.
+- **Languages:** Go, Python  
+- **Backend:** APIs, gRPC, worker pools  
+- **Caching:** Redis, in-memory strategies  
+- **Performance:** pprof, benchmarks, load testing  
+- **Infra:** Docker, Kubernetes, Linux  
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,redis,linux,git,grpc" /> </p>
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mallikarjun194&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjun194&theme=radical" /> </p> <p align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun194&layout=compact&theme=radical" /> </p>
-⭐ Featured Projects
-🚀 Some things I’ve built and experimented with
+---
 
-🔹 Simple-badger-db
-Lightweight key-value storage using BadgerDB
+### 🔥 Things I care about
 
-🔹 grpc-go-project
-gRPC service implementation using Go
+- Why memory suddenly jumps to 6–8GB
+- How goroutines actually behave under load
+- Reducing over-provisioned CPU & memory
+- Writing code that survives real traffic
 
-🔹 Proto-go-project
-Protobuf + gRPC starter template
+---
 
-🔹 ShortUrl
-URL Shortener built with Python
+### 📦 Some projects
 
-🔹 RoverProblem
-Algorithmic problem solving in Go
+- **Simple Badger DB**  
+  A small key-value store experiment using BadgerDB
 
-🧠 What I Care About
-⚡ CPU & memory profiling using pprof
+- **gRPC Go Project**  
+  Learning and experimenting with gRPC in Go
 
-🧵 Concurrency: goroutines, channels, worker pools
+- **URL Shortener**  
+  A clean Python project to understand system basics
 
-📦 Redis optimisation & cache design
+- **Problem Solving in Go**  
+  Algorithms and logic building
 
-📈 Observability: metrics, logs & traces
+---
 
-💰 Reducing cloud costs through right-sizing
+### 🌱 What I’m learning now
 
-📚 Currently Exploring
-Advanced Go memory optimisation
+- Advanced Go memory optimisation  
+- Redis access patterns at scale  
+- API benchmarking and profiling  
+- Designing cost-efficient backend systems  
 
-High-scale Redis access patterns
+---
 
-Load testing & benchmarking APIs
+### 🤝 Let’s connect
 
-Designing cost-efficient microservices
+- GitHub: https://github.com/Mallikarjun194  
+- Email: mallikarjunmashalkar97@gmail.com  
 
-🤝 Let’s Connect
-<p align="center"> <a href="https://github.com/Mallikarjun194"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> </a> <a href="mailto:mallikarjunmashalkar97@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"> <i>"Build systems that scale — then make them faster."</i> 🚀 </p> ```
+---
+
+> *“Good systems don’t just work — they stay calm under pressure.”*
