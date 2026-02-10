@@ -1,53 +1,76 @@
-# 👋 Hey there, I’m **Mallikarjun A**
-### 👨‍💻 Enthusiastic Backend Developer | Golang, Python, REST, gRPC
+<!-- ========================= -->
+<!--      PROFILE HEADER       -->
+<!-- ========================= -->
 
-Welcome to my GitHub profile! 🚀 I build backend services, explore distributed systems, and learn cutting-edge technologies.
+<h1 align="center">Hi 👋, I'm Mallikarjun A</h1>
+<h3 align="center">Backend Engineer | Golang | Distributed Systems | Cloud</h3>
 
----
-
-## 🔭 About Me
-- 🔹 Software Engineer based in Bangalore, India  
-- 🔹 Passionate about Go, Python, Microservices, and Cloud  
-- 🔹 Love building scalable and efficient systems
-
----
-
-## 💼 Skills & Tools
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23826de9.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-%23534FFF.svg?style=for-the-badge)
-![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mallikarjun194&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📌 GitHub Stats
+## 🚀 Who Am I?
 
-![Mallikarjun194’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjun194&show_icons=true&theme=radical)
+```yaml
+name: Mallikarjun A
+location: Bengaluru, India 🇮🇳
+role: Backend Engineer
+primary_language: Golang
+other_languages:
+  - Python
+interests:
+  - High-performance backend systems
+  - Distributed systems & microservices
+  - Redis, caching & optimisation
+  - Profiling (CPU / Memory / Latency)
+  - Cloud cost optimisation
+I enjoy building scalable, high-throughput backend services,
+profiling them with pprof, and squeezing out every bit of CPU & memory efficiency.
 
----
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,redis,linux,git,grpc" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mallikarjun194&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallikarjun194&theme=radical" /> </p> <p align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun194&layout=compact&theme=radical" /> </p>
+⭐ Featured Projects
+🚀 Some things I’ve built and experimented with
 
-## 🔎 My Top Projects
+🔹 Simple-badger-db
+Lightweight key-value storage using BadgerDB
 
-### ⭐ Featured Repositories
-- **[Simple-badger-db](https://github.com/Mallikarjun194/Simple-badger-db)** – A key-value database using Badger DB  
-- **[ShortUrl](https://github.com/Mallikarjun194/ShortUrl)** – URL shortener built with Python  
-- **[grpc-go-project](https://github.com/Mallikarjun194/grpc-go-project)** – gRPC service implementation in Go  
-- **[Proto-go-project](https://github.com/Mallikarjun194/Proto-go-project)** – Protobuf + gRPC starter project  
-- **[RoverProblem](https://github.com/Mallikarjun194/RoverProblem)** – Go algorithmic problem solving
+🔹 grpc-go-project
+gRPC service implementation using Go
 
----
+🔹 Proto-go-project
+Protobuf + gRPC starter template
 
-## 📫 Connect with Me
+🔹 ShortUrl
+URL Shortener built with Python
 
-Feel free to say hi or connect via:
+🔹 RoverProblem
+Algorithmic problem solving in Go
 
-📧 **Email**: mallikarjunaa49@gmail.com  
-🔗 **GitHub**: https://github.com/Mallikarjun194  
-🌐 **LinkedIn**: 
+🧠 What I Care About
+⚡ CPU & memory profiling using pprof
 
----
+🧵 Concurrency: goroutines, channels, worker pools
 
-> 💬 *“Always be learning and building.”* 🚀
+📦 Redis optimisation & cache design
+
+📈 Observability: metrics, logs & traces
+
+💰 Reducing cloud costs through right-sizing
+
+📚 Currently Exploring
+Advanced Go memory optimisation
+
+High-scale Redis access patterns
+
+Load testing & benchmarking APIs
+
+Designing cost-efficient microservices
+
+🤝 Let’s Connect
+<p align="center"> <a href="https://github.com/Mallikarjun194"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> </a> <a href="mailto:mallikarjunmashalkar97@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <i>"Build systems that scale — then make them faster."</i> 🚀 </p> ```
